@@ -2,7 +2,8 @@
 
 - 🔭 Hoje trabalho como aprendiz na área de ciência de dados 
 - 🌱 Cursando ultimo ano de Ciência de dados 
-
+- 🔧 Formado em automação e manufatura digital
+- 🤖 Formado em técnico de mecatrônica 
  <div>
   <a href="https://github.com/GabrielEvandro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielEvandro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
