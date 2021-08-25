@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Evandro 
 
-- 🔭 Hoje trabalho como aprendiz na área de ciência de dados 
+- 🔭 Hoje trabalho como aprendiz na área de ciência de dados/Machine Learning 
 - 🌱 Cursando ultimo ano de Ciência de dados 
 - 🔧 Formado em automação e manufatura digital
 - 🤖 Formado em técnico de mecatrônica 
